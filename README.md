@@ -1,7 +1,7 @@
 नमस्कार🙏 This is RIYA 👩‍💻
 <br>
 <br>
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width:1000px;">
 
 ```javascript
 const bio = {
