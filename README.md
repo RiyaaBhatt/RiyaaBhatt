@@ -1,7 +1,7 @@
 <H1>नमस्कार🙏 This is RIYA 👩‍💻</H1>
 <br>
 <br>
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width:500px;height:300px;align-item:center;">
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width:500px;height:300px;transform:translatex(50px);">
 
 ```javascript
 const bio = {
@@ -22,3 +22,4 @@ console.log(`Here's what's in my coding backpack: ${bio.skills.join(', ')} 🎒`
 
 🌟 Fun Fact:
 I believe that every line of code tells a story, and I'm here to write the next epic chapter! 📜✨
+<h1>Let's connect</h1>
