@@ -8,7 +8,7 @@ const bio = {
   passions: ["Code", "Tea", "Creativity"],
   codeStyle: "Clean, efficient, and occasionally magical",
   motto: "console.log('Eat, Sleep, Code, Repeat!')",
-  currentlyLearning: "Data Science with AIML",
+  currentlyLearning: "Data Science with AIML,ReactJs",
   skills: ["Python", "JavaScript", "Java", "Bootstrap", "HTML", "CSS", "Pgadmin", "SQL"],
 };
 
