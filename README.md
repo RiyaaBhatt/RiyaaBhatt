@@ -10,7 +10,7 @@
 <h3>A passionate Web Developer from India</h3>
 
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently working on **Frontend and backend**
 
 - 🌱 I’m currently learning **React with django**
 
