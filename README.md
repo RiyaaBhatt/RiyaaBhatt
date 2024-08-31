@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React with django**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 🤝 I’m looking for help with **Open source Contribution**
 
-- 💬 Ask me about **Javascript, Python,Java,sql, DataStructures and algorithm**
+- 💬 Ask me about **Javascript,MERN, Python,Java,sql, DataStructures and algorithm**
 
 - 📫 Contact me through **bhattriya670@gmail.com**
 
@@ -37,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyaabhatt&show_icons=true&locale=en" alt="riyaabhatt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaabhatt&" alt="riyaabhatt" /></p>
+
