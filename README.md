@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Frontend and backend**
 
-- 🌱 I’m currently learning **React with django**
+- 🌱 I’m currently learning **typescript and next js**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 🤝 I’m looking for help with **Open source Contribution**
 
-- 💬 Ask me about **Javascript,MERN, Python,Java,sql, DataStructures and algorithm**
+- 💬 Ask me about **Javascript,MERN, Python,Java,sql, DataStructures and algorithm,django**
 
 - 📫 Contact me through **bhattriya670@gmail.com**
 
