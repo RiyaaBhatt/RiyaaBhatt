@@ -7,7 +7,7 @@
    <img align = "right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px"/>
  
  <h1>I'm Riya Bhatt</h1>
-<h3>A passionate Web Developer from India</h3>
+<h3>A passionate Developer from India</h3>
 
 
 - 🔭 I’m currently working on **Frontend and backend**
