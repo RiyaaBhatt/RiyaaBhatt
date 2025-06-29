@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400px" />
 
 <h1>I'm Riya Bhatt</h1>
-<h3>An AI/ML Engineer & Full-Stack Developer from India</h3>
+<h3>An Aspiring AI/ML Engineer & Full-Stack Developer from India</h3>
 
 <ul>
   <li>🔭 I’m currently working on <strong>AI-powered full-stack applications</strong> integrating machine learning models and RESTful APIs</li>
