@@ -1,8 +1,10 @@
 
 <div align="center">
 
-# Hey there! I'm Riya
-<img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="55" alt="Hey there animation" />
+<h1 align="center">
+  Hey there! I'm Riya
+  <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="45" alt="Waving hand" />
+</h1>
 
 ### Engineering the systems behind intelligent applications.
 
